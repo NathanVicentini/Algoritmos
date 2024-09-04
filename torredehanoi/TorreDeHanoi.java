@@ -1,7 +1,7 @@
 package torredehanoi;
 /**
  *
- * @author 03779206064
+ * @author Nathan Vicentini
  */
 /*Deve ser programado um algoritmo em Java da Torre de Hanói, com um número de 
 discos informado pelo usuário. O programa deve informar qual o número mínimo de 
