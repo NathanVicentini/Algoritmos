@@ -35,6 +35,6 @@ public class TorreDeHanoi {
         }
         Torre(discos-1, Origem, Destino, Auxilio);
         System.out.println("Mova o disco do pino " + Origem + " para o pino " + Destino);
-        Torre(discos-1, Auxilio, Destino, Origem);
+        Torre(discos-1, Auxilio, Origem , Destino);
     }    
 }
