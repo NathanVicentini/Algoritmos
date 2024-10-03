@@ -18,7 +18,7 @@ public class Exercicio1 {
             double valorTotal = 0.0;
 
             while (true) {
-                System.out.println("Digite o nome do produto e quando terminar digite 'fim'):");
+                System.out.println("Digite o nome do produto e quando terminar digite 'fim':");
                 String Nome = leitor.nextLine();
                
                 if (Nome.equalsIgnoreCase("fim")) {
@@ -56,3 +56,4 @@ public class Exercicio1 {
         leitor.close();
     }
 }
+/*"Nicolas, olha para trás que eu vou pesquisar no chatgpt"*/
